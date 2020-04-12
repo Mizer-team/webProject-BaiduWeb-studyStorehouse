@@ -1,0 +1,78 @@
+.info{
+    /*margin:25px 50px 75px 100px; 属性可以有一到四个值 上 右  下 左
+    margin: 0 0 10px; 上 左右 下
+    margin:25px 50px; 上下  左右
+    margin:25px;  4个边距
+    */
+
+    position: relative;
+    float: left;
+    width: 200px;
+    margin-right: -200px;
+}
+
+.g-bd1{
+    margin: 0 0 10px;
+}
+.title{
+
+    text-align: center;
+    position: relative;
+    line-height: 0px;
+    /*width: 800px;*/
+    margin: 0px ;
+
+
+}
+.title:after, .title:before{
+    content: '';
+    position: absolute;
+    top: 50%;
+    background: #000;
+    height: 2px;
+    width: 45%;
+}
+
+.title:after{
+    left: 0;
+}
+
+.title:before{
+    right: 0;
+}
+.title-l{
+
+    text-align: center;
+    position: relative;
+    line-height: 0px;
+    /*width: 800px;*/
+    margin: 0px ;
+
+
+}
+.title-l:after, .title-l:before{
+    content: '';
+    position: absolute;
+    top: 50%;
+    background: #000;
+    height: 2px;
+    width: 30%;
+}
+
+.title-l:after{
+    left: 0;
+}
+
+.title-l:before{
+    right: 0;
+}
+
+
+.g-mn1{
+    float: right;
+    width: 100%;
+}
+.detailed
+{
+    margin-left: 200px;
+}
