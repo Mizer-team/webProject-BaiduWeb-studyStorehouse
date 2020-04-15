@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ad57e12-ae1b-43b1-8ee1-1e78b14a60e0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/web/baidu/layDate/html/inputeDate.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/baidu/layDate/html/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/baidu/layDate/html/test2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/baidu/layDate/js/inputDate.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -34,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/baidu/layDate/html/inputeDate.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            <state relative-caret-position="108">
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -173,14 +169,6 @@
               <item name="baidu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="layDate" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
-            <path>
-              <item name="webProject-BaiduWeb-studyStorehouse" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="E:\mySourceCode\webProj\webProject-BaiduWeb-studyStorehouse" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="web" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="baidu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="layDate" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="lib" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -228,16 +216,15 @@
       <workItem from="1586739327554" duration="4794000" />
       <workItem from="1586767695288" duration="699000" />
       <workItem from="1586772380362" duration="2344000" />
-      <workItem from="1586850316926" duration="9211000" />
+      <workItem from="1586850316926" duration="9827000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17170000" />
+    <option name="totallyTimeSpent" value="17786000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="31" width="1924" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16489926" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -374,8 +361,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/baidu/layDate/html/inputeDate.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        <state relative-caret-position="108">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
         </state>
       </provider>
     </entry>
