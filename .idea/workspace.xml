@@ -15,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/baidu/individualBiographical/html/makeBiographicalNotes.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+            <state relative-caret-position="108">
+              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -27,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/baidu/layDate/html/inputeDate.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+            <state relative-caret-position="135">
+              <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -39,7 +39,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/baidu/layDate/html/test2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="607">
+            <state relative-caret-position="945">
               <caret line="35" column="7" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
               <folding>
                 <element signature="e#1131#1137#0" expanded="true" />
@@ -134,7 +134,6 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-2" />
-    <option name="y" value="31" />
     <option name="width" value="1924" />
     <option name="height" value="1050" />
   </component>
@@ -144,6 +143,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -156,31 +156,17 @@
               <item name="E:\mySourceCode\webProj\webProject-BaiduWeb-studyStorehouse" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="web" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
-            <path>
-              <item name="webProject-BaiduWeb-studyStorehouse" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="E:\mySourceCode\webProj\webProject-BaiduWeb-studyStorehouse" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="web" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="baidu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="webProject-BaiduWeb-studyStorehouse" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="E:\mySourceCode\webProj\webProject-BaiduWeb-studyStorehouse" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="web" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="baidu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="layDate" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/WebProject" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -217,14 +203,19 @@
       <workItem from="1586767695288" duration="699000" />
       <workItem from="1586772380362" duration="2344000" />
       <workItem from="1586850316926" duration="9827000" />
+      <workItem from="1587010475425" duration="13000" />
+      <workItem from="1587011770508" duration="167000" />
+      <workItem from="1587012123364" duration="591000" />
+      <workItem from="1587381136416" duration="786000" />
+      <workItem from="1587382075039" duration="61000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17786000" />
+    <option name="totallyTimeSpent" value="19404000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="31" width="1924" height="1050" extended-state="0" />
+    <frame x="-2" y="0" width="1924" height="1050" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16489926" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -249,67 +240,30 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/baidu/layDate/html/text.js" />
     <entry file="file://$PROJECT_DIR$/web/baidu/individualBiographical/html/makeBiographicalNotes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+        <state relative-caret-position="108">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
           <folding>
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/baidu/individualBiographical/css/makeBiographicalNotes.css">
+    <entry file="file://$PROJECT_DIR$/web/baidu/layDate/html/inputeDate.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="7" selection-end-line="77" selection-end-column="1" />
+        <state relative-caret-position="135">
+          <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/baidu/layDate/html/text.js">
+    <entry file="file://$PROJECT_DIR$/web/baidu/layDate/html/test2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" selection-start-line="1" selection-end-line="7" selection-end-column="7" />
+        <state relative-caret-position="945">
+          <caret line="35" column="7" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
           <folding>
-            <element signature="e#169#221#0" />
-            <element signature="e#255#307#0" />
-            <element signature="e#342#395#0" />
-            <element signature="e#430#482#0" />
-            <element signature="e#519#575#0" />
-            <element signature="e#609#660#0" />
-            <element signature="e#693#766#0" />
-            <element signature="e#800#874#0" />
-            <element signature="e#908#981#0" />
-            <element signature="e#1017#1095#0" />
-            <element signature="e#1130#1192#0" />
-            <element signature="e#1214#1275#0" />
-            <element signature="e#1297#1356#0" />
-            <element signature="e#1378#1455#0" />
-            <element signature="e#1477#1578#0" />
-            <element signature="e#1600#1712#0" />
-            <element signature="e#1748#1803#0" />
-            <element signature="e#1839#2315#0" />
-            <element signature="e#2363#2556#0" />
-            <element signature="e#2601#2670#0" />
-            <element signature="e#2706#2850#0" />
-            <element signature="e#2904#3001#0" />
-            <element signature="e#3035#3122#0" />
-            <element signature="e#3158#3320#0" />
-            <element signature="e#3357#3523#0" />
-            <element signature="e#3558#3616#0" />
-            <element signature="e#3653#3711#0" />
-            <element signature="e#3746#3807#0" />
-            <element signature="e#3841#3930#0" />
-            <element signature="e#3992#4124#0" />
-            <element signature="e#4158#4215#0" />
-            <element signature="e#4253#4284#0" />
-            <element signature="e#4318#4372#0" />
-            <element signature="e#4407#4464#0" />
-            <element signature="e#4498#4552#0" />
-            <element signature="e#4589#4649#0" />
-            <element signature="e#4671#4751#0" />
-            <element signature="e#4773#4856#0" />
-            <element signature="e#4878#4960#0" />
+            <element signature="e#1131#1137#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -318,23 +272,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="1" column="62" selection-start-line="1" selection-start-column="62" selection-end-line="1" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/baidu/layDate/html/test2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="607">
-          <caret line="35" column="7" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
-          <folding>
-            <element signature="e#1131#1137#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/baidu/layDate/js/inputDate.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
@@ -359,10 +296,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/baidu/layDate/html/inputeDate.html">
+    <entry file="file://$PROJECT_DIR$/web/baidu/layDate/js/inputDate.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        <state relative-caret-position="297">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/baidu/individualBiographical/css/makeBiographicalNotes.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="7" selection-end-line="77" selection-end-column="1" />
         </state>
       </provider>
     </entry>
