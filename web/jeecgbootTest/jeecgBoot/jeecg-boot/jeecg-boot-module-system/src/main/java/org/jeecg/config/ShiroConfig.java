@@ -66,6 +66,9 @@ public class ShiroConfig {
 				filterChainDefinitionMap.put(url,"anon");
 			}
 		}
+		
+		//filterChainDefinitionMap.put("/test/jeecgTest/hello", "anon"); //测试
+		filterChainDefinitionMap.put("/test/jeecgTest/hello", "anon"); //测试
 
 		//cas验证登录
 		filterChainDefinitionMap.put("/cas/client/validateLogin", "anon");
